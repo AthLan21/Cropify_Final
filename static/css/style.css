@@ -1,0 +1,16 @@
+.body{
+  background-color: lightgreen;
+}
+.heading{
+ color: lightgreen;
+}
+
+.options{
+  margin-top: 200px;
+  text-align: center;
+}
+
+.cropForm{
+  margin-top:80px;
+  margin-left:25rem;
+}
